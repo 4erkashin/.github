@@ -1,4 +1,4 @@
-# Yami-locator Contributing Guide
+# Contributing Guide
 
 Hi, I'm really glad you wanted to get involved in developing the project! Before submitting your contribution, please make sure to take a moment and read through the following guidelines:
 
@@ -15,7 +15,8 @@ Hi, I'm really glad you wanted to get involved in developing the project! Before
 - Please select one of the templates in the issue creation page.
 
 ## Pull Request Guidelines
-**WIP**
+
+Please follow the [Pull Request Guide](PULL_REQUEST_TEMPLATE.md) content
 
 - It's OK to have multiple small commits as you work on the PR - GitHub will automatically squash it before merging.
 
